@@ -1,0 +1,89 @@
+Signature 0x50450000: 4
+Machine: 2
+NumberOfSections: 2
+TimeDateStamp: 4
+PointerToSymbolTable (deprecated): 4
+NumberOfSymbolTable (deprecated): 4
+SizeOfOptionalHeader: 2
+Characteristics: 2
+Magic: 2
+MajorLinkerVersion: 1
+MinorLinkerVersion: 1
+SizeOfCode (sum of all sections): 4
+SizeOfInitializedData: 4
+SizeOfUninitializedData: 4
+AddressOfEntryPoint (RVA): 4
+BaseOfCode (RVA): 4
+BaseOfData (RVA): 4
+ImageBase: 4
+SectionAlignment: 4
+FileAlignment: 4
+MajorOperatingSystemVersion: 2
+MinorOperatingSystemVersion: 2
+MajorImageVersion: 2
+MinorImageVersion:2
+MajorSubsystemVersion: 2
+MinorSubsystemVersion: 2
+Win32VersionValue (zeros filled): 4
+SizeOfImage: 4
+SizeOfHeaders: 4
+CheckSum (images doesnt checked): 4
+Subsystem: 2
+DllCharacteristics: 2
+SizeOfStackReserve: 4
+SizeOfStackCommit: 4
+SizeOfHeapReserve: 4
+SizeOfHeapCommit: 4
+LoaderFlags (zeros filled): 4
+NumberOfRvaAndSizes: 4
+ExportTable(RVA): 4
+SizeOfExportTable: 4
+ImportTable(RVA): 4
+SizeOfImportTable: 4
+ResourceTable(RVA): 4
+SizeOfResourceTable: 4
+ExceptionTable(RVA): 4
+SizeOfExceptionTable: 4
+CertificateTable(RVA): 4
+SizeOfCertificateTable: 4
+BaseRelocationTable(RVA): 4
+SizeOfBaseRelocationTable: 4
+Debug (RVA): 4
+SizeOfDebug: 4
+ArchitectureData (RVA): 4
+SizeOfArchitectureData: 4
+GlobalPtr (RVA): 4
+00: 1
+00: 1
+00: 1
+00: 1
+TLSTable (RVA): 4
+SizeOfTLSTable: 4
+LoadConfigTable (RVA): 4
+SizeOfLoadConfigTable: 4
+BoundImport (RVA): 4
+SizeOfBoundImport: 4
+ImportAddressTable (RVA): 4
+SizeOfImportAddressTable: 4
+DelayImportDescriptor (RVA): 4
+SizeOfDelayImportDescriptor: 4
+CLRRuntimeHeader (RVA): 4
+SizeOfCLRRuntimeHeader: 4
+00: 1
+00: 1
+00: 1
+00: 1
+00: 1
+00: 1
+00: 1
+00: 1
+Name: 8
+VirtualSize: 4
+VirtualAddress (RVA): 4
+SizeOfRawData: 4
+PointerToRawData: 4
+PointerToRelocations: 4
+PointerToLinenumbers: 4
+NumberOfRelocations: 2
+NumberOfLinenumbers: 2
+Characteristics: 4
